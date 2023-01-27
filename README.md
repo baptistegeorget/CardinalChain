@@ -1,4 +1,4 @@
-# Jeux Cardinal Chain (en version console)
+# Jeux Cardinal Chain (en version terminal)
 
 ![Cardinal Chain](/cardinal-chain.png "Cardinal Chain")
 
